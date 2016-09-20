@@ -47,14 +47,20 @@ header{
 	width: 1000px;
 	height: 180px;
 	background: rgb(255, 255, 255);
-	border-top-style: Solid;
+	border-top-style: Inset;
+	border-Bottom-style: Inset;
+	border-Right-style: Inset;
+	border-Left-style: Inset;
 }
 
 nav{
 width: 1000px;
 height: 50px;
-background-color: rgb(242,184,13);
+background-color: rgb(0,102,128);
 border-radius: 10px;
+border-top-style: Inset;
+border-Bottom-style: Inset;
+
 
 }
 ul{
@@ -70,6 +76,10 @@ li{
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
+	border-top-style: Inset;
+	border-Bottom-style: Inset;
+	border-Right-style: Inset;
+	border-Left-style: Inset;
 
 }
 
@@ -78,12 +88,16 @@ section{
 	background: White;
 	height: 600px;
 	float: left;
-	margin-top: 0px;
+	margin-top: 1px;
 	color: rgb(255,255,255);
 	border-radius: 10px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-image: url(../img/UnadFondo.PNG);
+	border-top-style: Inset;
+	border-Bottom-style: Inset;
+	border-Right-style: Inset;
+	border-Left-style: Inset;
 }
 aside{
 
@@ -91,14 +105,22 @@ aside{
 	background: white;
 	height: 600px;
 	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
+	margin-left: 2px;
+	margin-top: 1px;
 	border-radius: 10px;
+	border-top-style: Inset;
+	border-Bottom-style: Inset;
+	border-Right-style: Inset;
+	border-Left-style: Inset;
+		background-repeat: no-repeat;
+	background-size: cover;
+
+	background-image: url(../img/UnadFondo.PNG);
 }
 
 footer{
 width: 1000px;
-height: 70px;
+height: 95px;
 background: white;
 float: left;
 color: rgb(0,0,0);
@@ -106,6 +128,9 @@ margin-top: 20px;
 border-radius: 10px;
 margin-bottom: 20px;
 border-top-style: Inset;
+border-Bottom-style: Inset;
+border-Right-style: Inset;
+border-Left-style: Inset;
 }
 
 p{
