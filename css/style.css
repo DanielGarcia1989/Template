@@ -37,7 +37,7 @@ text-align: left;
 
 h3{
 font-family: 'Angsana New', cursive;;
-color: black;
+color: white;
 font-size: 20px;
 text-align: left; 
 }
@@ -132,6 +132,7 @@ border-top-style: Inset;
 border-Bottom-style: Inset;
 border-Right-style: Inset;
 border-Left-style: Inset;
+background-image: url(../img/UnadFondo.PNG);
 }
 
 p{
