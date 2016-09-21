@@ -61,6 +61,7 @@ border-radius: 10px;
 border-top-style: Inset;
 border-Bottom-style: Inset;
 background-image: url(../img/UnadFondo.PNG);
+margin:0 auto;
 
 
 }
@@ -88,7 +89,7 @@ section{
 	font-family: 'Angsana New', cursive;
 	font-size: 30px;
 	width: 700px;
-	background: White;
+	background: RGB(179,179,179);
 	height: 600px;
 	float: left;
 	margin-top: 1px;
@@ -104,7 +105,7 @@ section{
 aside{
 
 	width: 280px;
-	background: white;
+	background: RGB(179,179,179);
 	height: 600px;
 	float: left;
 	margin-left: 2px;
@@ -125,7 +126,7 @@ height: 160px;
 background: black;
 float: left;
 color: rgb(0,0,0);
-margin-top: 20px;
+margin-top: 2px;
 border-radius: 10px;
 margin-bottom: 1px;
 border-top-style: Inset;
