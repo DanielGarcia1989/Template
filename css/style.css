@@ -21,7 +21,7 @@ background-color: rgb(255,255,255);
 
 h1{
 font-family: 'Angsana New', cursive;
-color: rgb(255,255,255);
+color: rgb(0,0,0);
 margin-left: 10px;
 font-size: 30px;
 text-align: center; 
@@ -45,35 +45,34 @@ text-align: center;
 
 header{
 	width: 1000px;
-	height: 180px;
+	height: 200px;
 	background: rgb(255, 255, 255);
 	border-top-style: Inset;
 	border-Bottom-style: Inset;
-	border-Right-style: Inset;
-	border-Left-style: Inset;
+
 }
 
 nav{
 width: 1000px;
-height: 200px;
+height: 50px;
 color: rgb(255,255,255);
 border-radius: 10px;
 border-top-style: Inset;
 border-Bottom-style: Inset;
-background-image: url(../img/UnadFondo.PNG);
-margin:0 auto;
+background: RGB(255,255,255);
+
 
 
 }
 ul{
 margin: auto;
-padding-top: 4px;
+padding-top: 0px;
 }
 
 li{
 	float: left;
 	list-style-type: none;
-	padding: 10px;
+	padding: 0px;
 	background-color: rgb(0,102,128);
 	margin: 3px;
 	border-radius: 10px;
@@ -87,7 +86,6 @@ li{
 
 section{
 	font-family: 'Angsana New', cursive;
-	font-size: 30px;
 	width: 700px;
 	background: RGB(179,179,179);
 	height: 600px;
@@ -95,15 +93,13 @@ section{
 	margin-top: 1px;
 	color: rgb(0,0,0);
 	border-radius: 10px;
-	background-repeat: no-repeat;
-	background-size: cover;
 	border-top-style: Inset;
 	border-Bottom-style: Inset;
 	border-Right-style: Inset;
 	border-Left-style: Inset;
 }
 aside{
-
+	font-family: 'Angsana New', cursive;
 	width: 285px;
 	background: RGB(179,179,179);
 	height: 600px;
@@ -115,9 +111,6 @@ aside{
 	border-Bottom-style: Inset;
 	border-Right-style: Inset;
 	border-Left-style: Inset;
-	background-repeat: no-repeat;
-	background-size: cover;
-
 }
 
 footer{
@@ -136,7 +129,7 @@ border-Left-style: Inset;
 
 p{
 
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: bolder;
 	line-height: 24px;
 	padding: 10px;
