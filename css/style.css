@@ -38,8 +38,8 @@ text-align: left;
 h3{
 font-family: 'Angsana New', cursive;;
 color: white;
-font-size: 20px;
-text-align: left; 
+font-size: 13px;
+text-align: center; 
 }
 
 
@@ -104,7 +104,7 @@ section{
 }
 aside{
 
-	width: 280px;
+	width: 285px;
 	background: RGB(179,179,179);
 	height: 600px;
 	float: left;
@@ -122,44 +122,12 @@ aside{
 
 footer{
 width: 1000px;
-height: 160px;
+height: 300px;
 background: black;
 float: left;
 color: rgb(0,0,0);
 margin-top: 2px;
 border-radius: 10px;
-margin-bottom: 1px;
-border-top-style: Inset;
-border-Bottom-style: Inset;
-border-Right-style: Inset;
-border-Left-style: Inset;
-}
-
-footer1{
-width: 1000px;
-height: 150px;
-background: black;
-float: left;
-color: rgb(0,0,0);
-margin-top: 1px;
-border-radius: 10px;
-margin-bottom: 1px;
-border-top-style: Inset;
-border-Bottom-style: Inset;
-border-Right-style: Inset;
-border-Left-style: Inset;
-
-}
-
-footer2{
-width: 1000px;
-height: 95px;
-background: black;
-float: left;
-color: rgb(0,0,0);
-margin-top: 1px;
-border-radius: 10px;
-margin-bottom: 1px;
 border-top-style: Inset;
 border-Bottom-style: Inset;
 border-Right-style: Inset;
