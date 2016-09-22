@@ -6,18 +6,22 @@
 	
 	background-size: 100% 100%;
 	
-	animation: banner 10s infinite;	
+	animation: banner 12s infinite;	
 }
 	@keyframes banner{
-		0%, 30% {
+		0%, 20% {
 			background-image:url(../img/Unad.png);
 		}
 		
-		35%, 65% {
+		25%, 45% {
 			background-image:url(../img/Edificio.png);
 		}
-		70%, 100%{
+		50%, 70%{
 			background-image:url(../img/Gestion.png);
+		}
+		
+		75%, 100%{
+			background-image:url(../img/Colombia.png);
 		}
 		
 	}
