@@ -1,0 +1,25 @@
+.banner{
+	width:280px;
+	height: 300px;
+	border: 2px solid black;
+	margin: auto;
+	
+	background-size: 100% 100%;
+	
+	animation: banner 10s infinite;	
+}
+	@keyframes banner{
+		0%, 30% {
+			background-image:url(../img/Unad.png);
+		}
+		
+		35%, 65% {
+			background-image:url(../img/Edificio.png);
+		}
+		70%, 100%{
+			background-image:url(../img/Gestion.png);
+		}
+		
+	}
+	
+	
