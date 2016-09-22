@@ -10,18 +10,18 @@
 }
 	@keyframes banner{
 		0%, 20% {
-			background-image:url(../img/Unad.png);
+			background-image:url(../img/Unad.jpg);
 		}
 		
 		25%, 45% {
-			background-image:url(../img/Edificio.png);
+			background-image:url(../img/Edificio.jpg);
 		}
 		50%, 70%{
-			background-image:url(../img/Gestion.png);
+			background-image:url(../img/Gestion.jpg);
 		}
 		
 		75%, 100%{
-			background-image:url(../img/Colombia.png);
+			background-image:url(../img/Colombia.jpg);
 		}
 		
 	}
